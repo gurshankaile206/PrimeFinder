@@ -1,3 +1,5 @@
+using System;
+
 namespace PrimeFinder.Models
 {
   public class ThePrimeFinder
